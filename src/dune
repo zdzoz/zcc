@@ -1,0 +1,7 @@
+(executable
+ (name main)
+ (public_name zcc)
+ (libraries lpg)
+ (flags (:standard -w -37 -w -34))
+ (modules main)
+)
